@@ -1,3 +1,4 @@
+# This is the result of running the writing.py file using 250 as the number to generate.
 num = int(input('Enter a number: '))
 if num == 0:
 	print('even')
